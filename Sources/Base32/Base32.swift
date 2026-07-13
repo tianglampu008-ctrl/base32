@@ -2,7 +2,7 @@
 //  Base32.swift
 //  TOTP
 //
-//  Created by 野村 憲男 on 1/24/15.
+//  Created by mohamad hafiz bin mohd nasir 1/24/15.
 //
 //  Copyright (c) 2015 Norio Nomura
 //
